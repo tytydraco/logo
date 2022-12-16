@@ -1,6 +1,6 @@
 # logo
 
-My private logo files.
+My personal logo files.
 
 # GIMP
 
